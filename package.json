@@ -1,0 +1,15 @@
+{
+  "name": "aula-nodejs-gama-academy",
+  "version": "1.0.0",
+  "description": "Pacote para testar funcionamento npm e node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juíle Hanada",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "query-string": "^7.0.1"
+  }
+}
